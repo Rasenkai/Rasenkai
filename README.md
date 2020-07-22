@@ -1,6 +1,4 @@
 ### Hey 👋🏽, I'm [Rasenkai!](t.me/SeiyaRyuguin) 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DRasenkai&longCache=true)](https://github.com/Rasenkai)
-<br/>
 <a href="https://twitter.com/Rasenkai_99">
   <img align="left" alt="Rasenkai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -8,9 +6,10 @@
   <img align="left" alt="Rasenkai's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<br />
+<br>
+<br>
 
-Yo, So Github has been bringing out this cool stuff and all, hopefully it wont become a social media lol.
+<text aligh="right">Yo, So Github has been bringing out this cool stuff and all, hopefully it wont become a social media lol.
 <br>
 I'm a student from India, I work on aftermarket firmware for android phones (custom ROMs, Kernels, OEM ROM ports and stuff)
 <br>
@@ -33,9 +32,3 @@ Half the stuff I push on repos here are private, so enjoy.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-![Rasenkai's github stats](https://github-readme-stats.vercel.app/api?username=Rasenkai&show_icons=true&hide_border=true)
-
-
