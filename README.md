@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Rasenkai!](t.me/SeiyaRyuguin) 
+### Hey 👋🏽, I'm [Rasenkai!](t.me/NoobMaster420) 
 <a href="https://twitter.com/Rasenkai_99">
   <img align="left" alt="Rasenkai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
