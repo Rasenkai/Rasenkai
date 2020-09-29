@@ -16,4 +16,4 @@
 - 🌱 I’m currently learning C++ 
 - 🤔 I’m looking for help with the Linux Kernel
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40RequiemChatroom&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DRequiemChatroom&longCache=true)](https://t.me/RequiemChatroom) 
+- 📫 How to reach me: rasenkai99@gmail.com
