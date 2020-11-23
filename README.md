@@ -1,4 +1,4 @@
-[![Rasenkai gitstats](https://github-readme-stats.vercel.app/api?username=Rasenkai&theme=dark&layout=compact)](https://github.com/Rasenkai)
+[![Rasenkai gitstats](https://github-readme-stats.vercel.app/api?username=Rasenkai&show_icons=true&include_all_commits=true&theme=dark&layout=compact)](https://github.com/Rasenkai)
 ![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasenkai&theme=dark&layout=compact)
 
 - 🔭 I’m currently working on POCO X2
